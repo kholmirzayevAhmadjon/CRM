@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM_system_for_training_centers", "CRM_system_for_training_centers.csproj", "{F15D3A26-3A02-4676-A9D9-F105ADD4A13B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F15D3A26-3A02-4676-A9D9-F105ADD4A13B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15D3A26-3A02-4676-A9D9-F105ADD4A13B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15D3A26-3A02-4676-A9D9-F105ADD4A13B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15D3A26-3A02-4676-A9D9-F105ADD4A13B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7B62091-0B04-4EB5-9078-4EC01BCBEE17}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,210 @@
+[
+  {
+    "Name": "sdcas",
+    "Description": "casdcasc",
+    "Prise": 12.0,
+    "StartTime": "12:00",
+    "EndTime": "15:00",
+    "Duration": "ascdcdasd",
+    "Teacher_id": 1,
+    "Weekdays": [
+      1,
+      3,
+      5
+    ],
+    "Id": 2,
+    "CreatedAt": "2024-02-24T08:27:55.3088985Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "Name": "dcas",
+    "Description": "sadfasdf",
+    "Prise": 121312.0,
+    "StartTime": "12:00",
+    "EndTime": "18:34",
+    "Duration": "aDSCASDC",
+    "Teacher_id": 1,
+    "Weekdays": [
+      2,
+      4,
+      6
+    ],
+    "Id": 3,
+    "CreatedAt": "2024-02-24T08:36:57.6453805Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "Name": "sdvfvf",
+    "Description": "dfvsdvs",
+    "Prise": 21333123.0,
+    "StartTime": "13:32",
+    "EndTime": "13:32",
+    "Duration": "dvdvsdvfd",
+    "Teacher_id": 1,
+    "Weekdays": [
+      1,
+      3,
+      5
+    ],
+    "Id": 4,
+    "CreatedAt": "2024-02-24T08:38:47.6141745Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "Name": "sdccs",
+    "Description": "scsdcs",
+    "Prise": 34343434.0,
+    "StartTime": "12:12",
+    "EndTime": "12:12",
+    "Duration": "1",
+    "Teacher_id": 1,
+    "Weekdays": [
+      1
+    ],
+    "Id": 5,
+    "CreatedAt": "2024-02-24T08:39:19.7555529Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "Name": "dsfvbsdf",
+    "Description": "dsfvsdfv",
+    "Prise": 12121.0,
+    "StartTime": "12:12",
+    "EndTime": "12:12",
+    "Duration": "dcsdcs",
+    "Teacher_id": 1,
+    "Weekdays": [
+      1,
+      2,
+      3
+    ],
+    "Id": 6,
+    "CreatedAt": "2024-02-24T08:40:58.4578361Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "Name": "sdfvsdfv",
+    "Description": "vervesfv",
+    "Prise": 23234424.0,
+    "StartTime": "12:00",
+    "EndTime": "12:00",
+    "Duration": "sdvsdfvsd",
+    "Teacher_id": 1,
+    "Weekdays": [
+      1,
+      2,
+      4
+    ],
+    "Id": 7,
+    "CreatedAt": "2024-02-24T08:45:38.3097225Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "Name": "aSXAS",
+    "Description": "SXasxasxASX",
+    "Prise": 12313.0,
+    "StartTime": "11:12",
+    "EndTime": "11:12",
+    "Duration": "DWQEFDQWEFDQW",
+    "Teacher_id": 1,
+    "Weekdays": [
+      1,
+      3,
+      5
+    ],
+    "Id": 8,
+    "CreatedAt": "2024-02-24T09:09:35.5339107Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "Name": "sadcvsd",
+    "Description": "sdavasdvas",
+    "Prise": 121212.0,
+    "StartTime": "12:21",
+    "EndTime": "12:21",
+    "Duration": "sdxas",
+    "Teacher_id": 1,
+    "Weekdays": [
+      1,
+      3,
+      5
+    ],
+    "Id": 9,
+    "CreatedAt": "2024-02-24T09:13:27.5594384Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "Name": "asdas",
+    "Description": "sadcsadc",
+    "Prise": 12323.0,
+    "StartTime": "12:00",
+    "EndTime": "12:00",
+    "Duration": "sddcas",
+    "Teacher_id": 1,
+    "Weekdays": [
+      1,
+      3,
+      5
+    ],
+    "Id": 10,
+    "CreatedAt": "2024-02-24T09:16:40.0733731Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "Name": "casdcas",
+    "Description": "sdcasdcas",
+    "Prise": 21123123.0,
+    "StartTime": "11:12",
+    "EndTime": "11:12",
+    "Duration": "dsfvedfvewr",
+    "Teacher_id": 1,
+    "Weekdays": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "Id": 11,
+    "CreatedAt": "2024-02-24T09:17:46.759456Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "Name": "asdfg",
+    "Description": "dfbgdfgdgfgdfgdfgdfgdfgdf",
+    "Prise": 1234567.0,
+    "StartTime": "12:12",
+    "EndTime": "12:12",
+    "Duration": "svdfvsdfvsdfvsd",
+    "Teacher_id": 1,
+    "Weekdays": [
+      1,
+      2,
+      3
+    ],
+    "Id": 12,
+    "CreatedAt": "2024-02-24T13:05:30.2344201Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  }
+]

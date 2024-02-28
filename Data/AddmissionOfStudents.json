@@ -1,0 +1,26 @@
+[
+  {
+    "FirstName": "asad",
+    "LastName": "asad",
+    "Email": "a@gmail.com",
+    "PhoneNumber": "+998123456789",
+    "Description": "\\asdcvsde",
+    "Id": 1,
+    "CreatedAt": "2024-02-24T11:01:33.9117277Z",
+    "UpdatedAt": "2024-02-24T11:43:58.3096436Z",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "FirstName": "dvsadv",
+    "LastName": "vsdvsdvd",
+    "Email": "g@gmail.com",
+    "PhoneNumber": "+998123456789",
+    "Description": "gvsdfgvse",
+    "Id": 2,
+    "CreatedAt": "2024-02-24T11:03:28.5823073Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  }
+]

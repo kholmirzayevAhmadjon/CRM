@@ -1,0 +1,29 @@
+[
+  {
+    "CourseId": 2,
+    "StudentId": 2,
+    "Id": 1,
+    "CreatedAt": "2024-02-24T13:47:12.4049237Z",
+    "UpdatedAt": "2024-02-24T14:05:51.5499783Z",
+    "DeletedAt": "2024-02-24T14:07:26.6232959Z",
+    "IsDeleted": false
+  },
+  {
+    "CourseId": 2,
+    "StudentId": 3,
+    "Id": 2,
+    "CreatedAt": "2024-02-24T14:02:31.8742832Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "CourseId": 2,
+    "StudentId": 4,
+    "Id": 2,
+    "CreatedAt": "2024-02-24T14:02:31.8742832Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "StudentId": 2,
+    "CourseId": 2,
+    "Amount": 1234.0,
+    "PaymentDate": "2024-02-24T16:03:11.119171Z",
+    "Id": 1,
+    "CreatedAt": "2024-02-24T16:03:11.1934191Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "StudentId": 3,
+    "CourseId": 2,
+    "Amount": 121321.0,
+    "PaymentDate": "2024-02-24T16:03:30.0659383Z",
+    "Id": 2,
+    "CreatedAt": "2024-02-24T16:03:30.214894Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "StudentId": 2,
+    "CourseId": 2,
+    "Amount": 12121212.0,
+    "PaymentDate": "2024-02-24T16:03:44.013028Z",
+    "Id": 3,
+    "CreatedAt": "2024-02-24T16:03:44.1211863Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  }
+]

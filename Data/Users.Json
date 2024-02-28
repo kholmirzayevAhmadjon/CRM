@@ -1,0 +1,86 @@
+[
+  {
+    "FirstName": "Test",
+    "LastName": "Test",
+    "Email": "Test",
+    "Password": "Test",
+    "Role": 1,
+    "Id": 1,
+    "CreatedAt": "2024-02-23T20:20:59.6221046Z",
+    "UpdatedAt": "2024-02-23T20:25:11.6259818Z",
+    "DeletedAt": "2024-02-25T13:12:35.1121669Z",
+    "IsDeleted": true
+  },
+  {
+    "FirstName": "Test1",
+    "LastName": "Test",
+    "Email": "Test1",
+    "Password": "Test1",
+    "Role": 2,
+    "Id": 2,
+    "CreatedAt": "2024-02-23T20:22:49.3414429Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "2024-02-25T13:12:49.6145144Z",
+    "IsDeleted": true
+  },
+  {
+    "FirstName": "a",
+    "LastName": "a",
+    "Email": "s@gmail.com",
+    "Password": "asdcxasdc",
+    "Role": 2,
+    "Id": 3,
+    "CreatedAt": "2024-02-24T06:18:23.5959089Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "FirstName": "asdcdasd",
+    "LastName": "adasdas",
+    "Email": "g@gmail.com",
+    "Password": "asdcasdcasc",
+    "Role": 1,
+    "Id": 4,
+    "CreatedAt": "2024-02-24T08:34:08.9477307Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "FirstName": "asad",
+    "LastName": "asad",
+    "Email": "asd@gmail.com",
+    "Password": "dewdfqwefqwe",
+    "Role": 1,
+    "Id": 5,
+    "CreatedAt": "2024-02-24T17:22:45.3624603Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "FirstName": "Ahmadjon",
+    "LastName": "Xolmirzayev",
+    "Email": "ahmadjon@gmail.com",
+    "Password": "haadadmin",
+    "Role": 4,
+    "Id": 6,
+    "CreatedAt": "2024-02-24T17:38:05.2092213Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "FirstName": "Asad",
+    "LastName": "Asad",
+    "Email": "a@gmail.com",
+    "Password": "qwertyu",
+    "Role": 3,
+    "Id": 7,
+    "CreatedAt": "2024-02-24T17:40:05.093624Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  }
+]
