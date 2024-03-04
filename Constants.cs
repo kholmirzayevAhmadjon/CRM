@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CRM_system_for_training_centers;
+﻿namespace CRM_system_for_training_centers;
 
 public static class Constants
 {
